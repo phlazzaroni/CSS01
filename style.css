@@ -1,0 +1,95 @@
+body {
+    background-color: #0d0d0d;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .banner {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .banner-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .logo img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  h1 {
+    color: #61dafb;
+  }
+  
+  button {
+    background-color: #61dafb;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4fa3d1;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #course-content, #transform-world, #professional-challenges {
+    background-color: #333;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .modules-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .module {
+    margin: 10px 0;
+  }
+  
+  .module span {
+    color: #61dafb;
+  }
+  
+  #transform-world p {
+    font-size: 24px;
+  }
+  
+  #professional-challenges img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dio-logo {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
